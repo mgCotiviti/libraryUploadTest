@@ -1,0 +1,11 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>io.cotiviti.abinitio</groupId>
+    <artifactId>reason-aetna-276-lookback-expiration-test-policy-20180731</artifactId>
+    <version>1.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>reason-220-DollarThreshold-TBDFGFGFGFG</artifactId>
+  <version>1.0.0-Beta.1-SNAPSHOT</version>
+  <name>220-DollarThreshold-TBDFGFGFGFG</name>
+</project>

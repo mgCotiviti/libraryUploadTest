@@ -1,0 +1,49 @@
+{
+    "Request": {
+        "Suppression": {
+            "@ID": "220",
+            "@CompanyShortName": "Aetna",
+            "@ShortName": "TBD FGFGFGFG",
+            "@Source": "Client",
+            "@Type": "Dollar Threshold",
+            "@BusinessRules": "Test Automation Business Rule-4KWM4 fasf a",
+            "@ReferenceFileIsRequired": "No",
+            "@PolicyEffectiveDate": "08/09/2018",
+            "@ValidationDate": "08/09/2018",
+            "@Status": "In Configuration",
+            "@StatusReason": "",
+            "@Note": "Test Automation Notes-RQMGW",
+            "@PolicyOwner": "hoang.nguyen",
+            "ServiceOffering": [
+                {
+                    "@ID": "2",
+                    "@Name": "Clinical Chart Validation"
+                }
+            ],
+            "ExecutionPoint": [
+                {
+                    "@ID": "2",
+                    "@Name": "Post-Payment"
+                }
+            ],
+            "ReferenceDocuments": "",
+            "RequiredField": {
+                "RFI": []
+            },
+            "SuppressionDriver": {
+                "SuppressionDriveGrid": [
+                    {
+                        "@SuppressionID": "220",
+                        "@Driver": "Other",
+                        "@SuppressionDriverID": "81",
+                        "@RequiredDataElement": "TBD",
+                        "@SuppressionDriverRDEID": "3239",
+                        "@OperatorListID": "2",
+                        "@SuppressionDriverValue": "teste",
+                        "@RuleStatement": "este"
+                    }
+                ]
+            }
+        }
+    }
+}
